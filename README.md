@@ -1,2 +1,2 @@
-# api-rest-java
-API Rest feita em java usando Spring Boot
+# API Rest Java
+API Rest feita em java ultilizando Spring Boot
