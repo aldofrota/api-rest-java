@@ -10,15 +10,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -28,42 +21,24 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2GKbq8L8OKhJz0Fh7zlNpbEZpjs" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/projetos/users-api/pom.xml",
-    "settings.editor.selected.configurable": "terminal"
-  }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="UsersApplication" type="springBootConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <envs>
-        <env name="spring_profiles_active" value="default" />
-        <env name="spring_output_ansi_enabled" value="always" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="com.api.users.UsersApplication" />
-      <module name="users" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="09ad85e2-a53b-4a4e-a249-ec4c8a6619cd" name="Changes" comment="" />
-      <created>1666140414472</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1666140414472</updated>
-    </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
